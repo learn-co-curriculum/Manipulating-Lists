@@ -1,3 +1,8 @@
+**Course**: Data Science   <br/>
+**Mod**:    1                 <br/>
+**Topic**:   Python Lists and Strings                <br/>
+**Amount of time**: 30 minutes <br/>
+**Author**: Matthew Mitchell matt.mitchell@flatironschool.com
 
 # Teacher Notes
 
